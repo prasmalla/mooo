@@ -1,0 +1,9 @@
+--2019-11-12 03:38:27--  https://xtream-ui.com/forum/download/file.php?id=807
+Resolving xtream-ui.com (xtream-ui.com)... 2606:4700:30::681b:ac0e, 2606:4700:30::681b:ad0e, 104.27.172.14, ...
+Connecting to xtream-ui.com (xtream-ui.com)|2606:4700:30::681b:ac0e|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+Cookie coming from xtream-ui.com attempted to set domain to xtreamcodes.org
+Cookie coming from xtream-ui.com attempted to set domain to xtreamcodes.org
+Cookie coming from xtream-ui.com attempted to set domain to xtreamcodes.org
+2019-11-12 03:38:27 ERROR 403: Forbidden.
+
